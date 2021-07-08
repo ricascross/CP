@@ -1,3 +1,3 @@
-# CP-2019-2020
+# CP
 
-Trabalho de cálculo de programas, realizado em 2019-2020.
+Project created within the scope of the discipline Cálculo de Programas.
